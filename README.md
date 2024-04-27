@@ -34,16 +34,16 @@ create and activate a virtual environment using the following command in the pro
 
 - creation:
 
-python3 -m venv <env-name>
+python3 -m venv myenv
   
 - activation:
 - for mac:
 
-source <env-name>/bin/activate
+source myenv/bin/activate
   
 - for windows:
 
-<env-name>\Scripts\activate
+myenv\Scripts\activate
 
 - Then install all the packages using:
   
