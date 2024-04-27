@@ -51,7 +51,7 @@ pip install package_name
 
 ## Usage
 
-This code was tested on macbook and was working fine. If you are a windows users do the required changes accordingly. If there is no problem in the installation of packages then you just need to run all the cells of logisticregress.ipynb file.
+This code was tested on macbook and was working fine. If you are a windows users do the required changes accordingly. If there is no problem in the installation of packages then you just need to run all the cells of logisticregress.ipynb file to generate the results.
 
 ## Dataset
 
