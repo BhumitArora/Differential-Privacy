@@ -32,16 +32,21 @@ Python 3.11 environment
 create and activate a virtual environment using the following command in the project directory:
 
 - creation:
-  python3 -m venv <env-name>
+
+python3 -m venv <env-name>
   
 - activation:
 - for mac:
-- source <env-name>/bin/activate
+
+source <env-name>/bin/activate
+  
 - for windows:
-- <env-name>\Scripts\activate
+
+<env-name>\Scripts\activate
 
 - Then install all the packages using:
-- pip install package_name
+  
+pip install package_name
 
 ## Usage
 
