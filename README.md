@@ -32,7 +32,14 @@ Python 3.11 environment
 create and activate a virtual environment using the following command in the project directory:
 
 - creation:
-- python3 -m venv <env-name>
+<div style="background-color: #f4f4f4; padding: 10px; border: 1px solid #cccccc; border-radius: 5px;">
+```python
+# Your Python code goes here
+def hello_world():
+    print("Hello, world!")
+
+hello_world()
+</div>
 
 - activation:
 - for mac:
