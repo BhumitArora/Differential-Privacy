@@ -19,11 +19,17 @@ Traditional Differential privacy adding mechanisms were giving poor results when
 ## Requirements
 
 Python 3.11 environment
+
 numpy 
+
 pandas
+
 scikit-learn
+
 matplotlib
+
 joblib
+
 scipy
 
 ## Installation
@@ -31,16 +37,21 @@ scipy
 create and activate a virtual environment using the following command in the project directory:
 
 creation:
+
 python3 -m venv <env-name>
 
 activation:
+
 for mac:
+
 source <env-name>/bin/activate
 
 for windows:
+
 <env-name>\Scripts\activate
 
 Then install all the packages using:
+
 pip install package_name
 
 ## Usage
