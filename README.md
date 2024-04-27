@@ -8,6 +8,7 @@ An improved version of PDP mechanisms to increase the accuracy of query results 
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Dataset](#Dataset)
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgements](#Acknowledgements)
@@ -51,6 +52,10 @@ pip install package_name
 ## Usage
 
 This code was tested on macbook and was working fine. If you are a windows users do the required changes accordingly. If there is no problem in the installation of packages then you just need to run all the cells of logisticregress.ipynb file.
+
+## Dataset
+
+Dataset will be automatically downloaded when you will run the logisticregress.ipynb file. Dataset used --> Adult dataset. Manually download --> [dataset](https://archive.ics.uci.edu/dataset/2/adult)
 
 ## Contributing
 
